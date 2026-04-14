@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Generated output files (re-run ml_model.py to regenerate)
+results/results_chart.png
+
+# Large data files — do NOT commit raw Synthea CSVs
+data/raw/
+*.csv.gz
+data/processed_*.csv
+
+# PostgreSQL connection secrets — never commit these
+.env
+config.py
+secrets.py
+db_config.json
+
+# Log files
+*.log
