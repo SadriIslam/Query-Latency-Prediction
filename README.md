@@ -1,20 +1,9 @@
 # Predicting Database Query Latency for Medical Analytics Applications
 
-**CS 8260 — Advanced Database Systems  |  Kennesaw State University  |  Spring 2026**
 
 > Can a Machine Learning model predict how long a PostgreSQL query will take — more accurately than PostgreSQL's own built-in estimator?
 
 ---
-
-## Team
-
-| Name | Student ID |
-|------|------------|
-| Sadri Islam | 001253801 |
-| Kazi Shaharair Sharif | 001253575 |
-| Tahsin Tasnia Khan | 001252501 |
-
-**Professor:** Dr. Asahi Tomitaka
 
 ---
 
